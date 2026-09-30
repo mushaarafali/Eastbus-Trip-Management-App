@@ -1,0 +1,18 @@
+{
+  "rules": {
+    "assigned_trips": {
+      ".read": true,
+      ".write": true
+    },
+    "live_trips": {
+      ".read": true,
+      ".write": true
+    },
+    "emergency_alerts": {
+      ".read": true,
+      ".write": true
+    },
+    ".read": false,
+    ".write": false
+  }
+}

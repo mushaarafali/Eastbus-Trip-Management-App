@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "262638214912",
+    "firebase_url": "https://eastbus-smart-transport-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "eastbus-smart-transport",
+    "storage_bucket": "eastbus-smart-transport.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262638214912:android:2c083b256ed9814e369de5",
+        "android_client_info": {
+          "package_name": "lk.eastbus.eastbus_passenger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnVrFAxyt_ch8w6oyPp9EOoOveROlD6fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262638214912:android:a1cfa4d3312e2c11369de5",
+        "android_client_info": {
+          "package_name": "lk.eastbus.eastbus_trip_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnVrFAxyt_ch8w6oyPp9EOoOveROlD6fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+# This file tracks properties of this Flutter project.
+version:
+  revision: "generated-for-eastbus"
+  channel: "stable"
+project_type: app
+migration:
+  platforms:
+    - platform: root
+      create_revision: generated
+      base_revision: generated
