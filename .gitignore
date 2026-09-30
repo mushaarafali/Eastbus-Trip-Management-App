@@ -1,17 +1,55 @@
-# Flutter/Dart
+# ==============================
+# Flutter / Dart
+# ==============================
 .dart_tool/
 .packages
 .pub/
+.pub-cache/
 build/
 .flutter-plugins
 .flutter-plugins-dependencies
-.pub-cache/
-# Android
+
+# ==============================
+# Android Generated / Local
+# ==============================
 android/.gradle/
 android/local.properties
 android/app/debug/
 android/app/profile/
 android/app/release/
-# IDE
+
+# ==============================
+# IDE Files
+# ==============================
 .idea/
+.vscode/
 *.iml
+devtools_options.yaml
+
+# ==============================
+# Temporary / Archive Files
+# ==============================
+*.zip
+*.rar
+*.7z
+
+# ==============================
+# EastBus Temporary Backend Files
+# ==============================
+backend_firebase_patch/
+laravel_api_patch/
+
+# ==============================
+# Temporary Setup / Test Files
+# ==============================
+FIREBASE_RULES_TEST_ONLY.json
+README_FIREBASE_FIRST.md
+README_FIRST.txt
+REGENERATE_ANDROID.bat
+SETUP_WINDOWS.bat
+
+# ==============================
+# OS Generated Files
+# ==============================
+.DS_Store
+Thumbs.db
